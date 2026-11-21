@@ -154,6 +154,7 @@ Richard Obayemi
 
 ## Project Structure
 
+```text
 heart-disease-prediction/
 │
 ├── Heart_Disease_Prediction_ML.ipynb
