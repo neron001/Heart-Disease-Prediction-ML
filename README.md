@@ -18,7 +18,6 @@ Two classification algorithms were implemented:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Biopython (not used in this project)
 - Joblib
 
 ## Dataset
